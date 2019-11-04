@@ -1,0 +1,40 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00N\x00C\x00r\x00e\x00a\x00t\x00i\x00n\x00g\x00G\x00e\x00n\x00e\x00r\x00i\x00c\x00A\x00l\x00g\x00o\x00r\x00i\x00t\x00h\x00m\x00s\x00U\x00s\x00i\x00n\x00g\x00I\x00t\x00e\x00r\x00a\x00t\x00o\x00r\x00s)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Host System=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/faizata/projects/Module3/CreatingGenericAlgorithmsUsingIterators/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+Runtime=Host System
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=creatinggenericalgorithmsusingiterators
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x02\x00\x00\x00N\x00C\x00r\x00e\x00a\x00t\x00i\x00n\x00g\x00G\x00e\x00n\x00e\x00r\x00i\x00c\x00A\x00l\x00g\x00o\x00r\x00i\x00t\x00h\x00m\x00s\x00U\x00s\x00i\x00n\x00g\x00I\x00t\x00e\x00r\x00a\x00t\x00o\x00r\x00s\x00\x00\x00N\x00c\x00r\x00e\x00a\x00t\x00i\x00n\x00g\x00g\x00e\x00n\x00e\x00r\x00i\x00c\x00a\x00l\x00g\x00o\x00r\x00i\x00t\x00h\x00m\x00s\x00u\x00s\x00i\x00n\x00g\x00i\x00t\x00e\x00r\x00a\x00t\x00o\x00r\x00s)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///home/faizata/projects/Module3/CreatingGenericAlgorithmsUsingIterators
+External Terminal=xterm -hold -e %exe
+Project Target=CreatingGenericAlgorithmsUsingIterators,creatinggenericalgorithmsusingiterators
+Use External Terminal=true
+Working Directory=
+isExecutable=false
+
+[Project]
+VersionControlSupport=

@@ -1,0 +1,7 @@
+/home/faizata/projects/Module3/UsingStandardIterators/build/CMakeFiles/install/strip.dir
+/home/faizata/projects/Module3/UsingStandardIterators/build/CMakeFiles/edit_cache.dir
+/home/faizata/projects/Module3/UsingStandardIterators/build/CMakeFiles/rebuild_cache.dir
+/home/faizata/projects/Module3/UsingStandardIterators/build/CMakeFiles/list_install_components.dir
+/home/faizata/projects/Module3/UsingStandardIterators/build/CMakeFiles/install/local.dir
+/home/faizata/projects/Module3/UsingStandardIterators/build/CMakeFiles/usingstandarditerators.dir
+/home/faizata/projects/Module3/UsingStandardIterators/build/CMakeFiles/install.dir

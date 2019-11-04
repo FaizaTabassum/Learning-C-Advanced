@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/faizata/projects/Module3/UsingStandardIterators/main.cpp
+iostream
+-
+vector
+-
+string
+-
+istream
+-
+iterator
+-
+list
+-
+forward_list
+-
+

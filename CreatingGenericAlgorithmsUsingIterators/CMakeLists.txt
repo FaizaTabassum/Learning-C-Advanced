@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.6)
+project(creatinggenericalgorithmsusingiterators)
+
+add_executable(creatinggenericalgorithmsusingiterators main.cpp)
+
+install(TARGETS creatinggenericalgorithmsusingiterators RUNTIME DESTINATION bin)

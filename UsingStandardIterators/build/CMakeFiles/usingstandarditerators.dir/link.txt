@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/usingstandarditerators.dir/main.cpp.o  -o usingstandarditerators 
